@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://ADVANCECLEAN.COM.AR/$1 [R=301,L,QSA]
+</IfModule>
+AddHandler x-httpd-php7-1 .php

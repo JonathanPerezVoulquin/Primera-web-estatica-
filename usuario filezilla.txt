@@ -1,0 +1,25 @@
+	
+Información del hosting para el webmaster
+
+Plataforma	Linux
+Dominios	Los dominios para tu sitio deben tener estos DNS:
+DNS Primario: ns1.donweb.com
+DNS Secundario: ns2.donweb.com
+Panel Control	Usuario: c1341064
+
+Contraseña: luva02SEpe
+
+URL: https://mipanel.ferozo.com
+
+También puedes acceder desde aquí
+FTP	Usuario: c1341064
+
+Contraseña: luva02SEpe
+
+Host o Servidor: ftp.c1341064.ferozo.com
+
+Puerto: 21
+
+Carpeta Sitio Web: public_html
+
+Al subir los archivos de tu sitio por primera vez, recuerda eliminar primero los achivos index.html, index.php o defaulp.asp que se encuentren en esta carpeta.
